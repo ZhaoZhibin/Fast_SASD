@@ -3,8 +3,8 @@ Source codes for the paper "Fast Sparsity-Assisted Signal Decomposition with Non
 
 
 
-This repository contains the implementation details of our paper: [TIM]
-"[**Fast Sparsity-Assisted Signal Decomposition with Non-Convex Enhancement for Bearing Fault Diagnosis**](https://ieeexplore.ieee.org/document/9007828)" 
+This repository contains the implementation details of our paper: [IEEE/ASME Transactions on Mechatronics]
+"[**Fast Sparsity-Assisted Signal Decomposition with Non-Convex Enhancement for Bearing Fault Diagnosis**](https://ieeexplore.ieee.org/document/9512403/)" 
 by [Zhibin Zhao](https://zhaozhibin.github.io/). 
 
 
